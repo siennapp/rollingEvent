@@ -1,0 +1,108 @@
+
+[
+    {
+        "id": 0,
+        "name": "버크셔 헤서웨이",
+        "symbol": "BRK/B",
+        "logoUrl": "/logos/logo-0.webp",
+        "isSelected": false
+    },
+    {
+        "id": 1,
+        "name": "세일즈포스",
+        "symbol": "CRM",
+        "logoUrl": "/logos/logo-1.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 2,
+        "name": "에스티 로더",
+        "symbol": "EL",
+        "logoUrl": "/logos/logo-2.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 3,
+        "name": "골드만삭스",
+        "symbol": "GS",
+        "logoUrl": "/logos/logo-3.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 4,
+        "name": "홈디포",
+        "symbol": "HD",
+        "logoUrl": "/logos/logo-4.webp",
+        "isSelected": false
+    },
+    {
+        "id": 5,
+        "name": "제이피모간체이스",
+        "symbol": "JPM",
+        "logoUrl": "/logos/logo-5.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 6,
+        "name": "오라클",
+        "symbol": "ORCL",
+        "logoUrl": "/logos/logo-6.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 7,
+        "name": "화이자",
+        "symbol": "PFE",
+        "logoUrl": "/logos/logo-7.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 8,
+        "name": "AT&T",
+        "symbol": "T",
+        "logoUrl": "/logos/logo-8.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 9,
+        "name": "UPS",
+        "symbol": "UPS",
+        "logoUrl": "/logos/logo-9.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 10,
+        "name": "월마트",
+        "symbol": "WMT",
+        "logoUrl": "/logos/logo-10.webp",
+        "isSelected": false
+    },
+    {
+        "id": 11,
+        "name": "AMD",
+        "symbol": "AMD",
+        "logoUrl": "/logos/logo-11.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 12,
+        "name": "ASML",
+        "symbol": "ASML",
+        "logoUrl": "/logos/logo-12.webp",
+        "isSelected": false
+    },
+    {
+        "id": 13,
+        "name": "모더나",
+        "symbol": "MRNA",
+        "logoUrl": "/logos/logo-13.webp",
+        "isSelected": false 
+    },
+    {
+        "id": 14,
+        "name": "엔비디아",
+        "symbol": "NVDA",
+        "logoUrl": "/logos/logo-14.webp",
+        "isSelected": false 
+    }
+]
