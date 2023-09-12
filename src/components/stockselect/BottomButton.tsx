@@ -18,7 +18,7 @@ function BottomButton ({datas, onClick}:{datas: dataProps[]; onClick: () => void
         }
         const defaultThumbnail:dataProps = {
             name:'unknown',
-            logoUrl:'/state_unknown.webp',
+            logoUrl:'state_unknown.webp',
         }
         // 북마크 리스트 업데이트 전 기본 이미지 아이템 배열  
         const DefaultArr:dataProps[] = Array(DEFAULT_NUM).fill(defaultThumbnail)
