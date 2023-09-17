@@ -50,7 +50,7 @@ const LogoBox = styled.div`
         height:100%; 
         position:absolute; 
         left: 0; top: 0; 
-        background-image: url('./exclude.webp');
+        background-image: url('./Exclude.webp');
         background-size: cover; 
         z-index: 4
     }
