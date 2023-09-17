@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/rollingEvent/static/js/main.ff837154.js",
+    "main.js": "/rollingEvent/static/js/main.23cb0d7c.js",
     "static/js/787.5c4ca7d8.chunk.js": "/rollingEvent/static/js/787.5c4ca7d8.chunk.js",
     "index.html": "/rollingEvent/index.html",
-    "main.ff837154.js.map": "/rollingEvent/static/js/main.ff837154.js.map",
+    "main.23cb0d7c.js.map": "/rollingEvent/static/js/main.23cb0d7c.js.map",
     "787.5c4ca7d8.chunk.js.map": "/rollingEvent/static/js/787.5c4ca7d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff837154.js"
+    "static/js/main.23cb0d7c.js"
   ]
 }
