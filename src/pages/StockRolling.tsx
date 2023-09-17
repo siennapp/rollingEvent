@@ -25,7 +25,7 @@ function StockRolling({datas}: any ){
     return(
          <Container>
             <Section>
-                <HeadingTop h2={`두근💛 두근💛 \n어떤 주식을 받게 될까요?`} shadow={true}/>
+                <HeadingTop h2={`두근💙 두근💙 \n어떤 주식을 받게 될까요?`} shadow={true}/>
             
                 <Slider datas={items} timeline={tl} target={target} />
                 <FadeIn timeline={tl} target={target} />

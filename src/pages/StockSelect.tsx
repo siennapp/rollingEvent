@@ -65,7 +65,6 @@ function StockSelect(){
                           <StockItem item={item} key={index} onClick={()=>selectToggle(item)}/>
                       ))}
                   </List>
-                  <BottomText><span>{`찜한 주식은\n ‘내 관심’에도 넣어둘게요!`}</span></BottomText>
                   <BottomButton datas={bookmarkDatas} onClick={onEventRollingEvent}/>
                 </SelectContainer>
               )

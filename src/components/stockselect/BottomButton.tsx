@@ -90,10 +90,9 @@ const Button = styled.button`
     font-size: 1rem;
     font-weight: 500;
     background-color: ${colors.disabledparimary};
-    color: ${colors.disabledText};
+    color: ${colors.btnText};
     &.active{
         background-color: ${colors.primary};
-        color: ${colors.mainText};
     }
 `
 const Icons = styled.div`

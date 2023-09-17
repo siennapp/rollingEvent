@@ -1,11 +1,11 @@
 export const colors = {
     background: '#ffffff',
-    primary:'#FFDB00',
-    disabledparimary:'#FFF9BF',
+    primary:'#3182f6',
+    disabledparimary:'#8eb5ec',
     backdrop: 'rgba(6,11,17,0.7)',
     mainText: 'rgba(6,11,17,1)',
     subText:'rgba(6,11,17,.48)',
-    disabledText: 'rgba(6,11,17,.24)',
+    btnText: '#ffffff'
   } 
 
 
