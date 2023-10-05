@@ -107,28 +107,27 @@ const SelectContainer = styled.div`
 const List = styled.ul`
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin: 0 2.5px;
     padding-top: 60px;
-    margin-bottom: 44px;
+    margin-bottom: 80px;
 `
 
-const BottomText = styled.div`
-    margin-bottom: 135px; 
-    font-size: 1rem;
-    font-weight: 500;
-    white-space: pre-wrap;
-    text-align: center;
-    span::before {
-      content:'';
-      width: 10px; 
-      height: 12px; 
-      background-image: url('./bookmark.webp'); 
-      background-size: cover;
-      position: relative; 
-      margin-right: 10px; 
-      display: inline-block; 
-    }
-`
+// const BottomText = styled.div`
+//     margin-bottom: 135px; 
+//     font-size: 1rem;
+//     font-weight: 500;
+//     white-space: pre-wrap;
+//     text-align: center;
+//     span::before {
+//       content:'';
+//       width: 10px; 
+//       height: 12px; 
+//       background-image: url('./bookmark.webp'); 
+//       background-size: cover;
+//       position: relative; 
+//       margin-right: 10px; 
+//       display: inline-block; 
+//     }
+// `
 
 const BackDrop = styled.div`
     width: 100vw; 

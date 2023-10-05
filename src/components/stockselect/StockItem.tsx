@@ -30,6 +30,7 @@ const Item = styled.li`
         font-size: 1rem;
         font-weight: 600;
         line-height: 1.5em;
+        white-space: pre; 
     }
     span{
         font-size: 0.75rem;

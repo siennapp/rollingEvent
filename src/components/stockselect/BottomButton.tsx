@@ -56,9 +56,8 @@ function BottomButton ({datas, onClick}:{datas: dataProps[]; onClick: () => void
 }
 
 const Container = styled.div`
-    width: 100%;  
-    height: 100px; 
-    padding: 0 16px; 
+    width: 100%; 
+    padding: 0 16px 16px 16px; 
     display: flex;
     align-items: flex-start;
     position: fixed;
